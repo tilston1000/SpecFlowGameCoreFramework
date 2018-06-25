@@ -1,0 +1,6 @@
+C:\Users\andrew.tilston\Testing Info\Projects\Specflow\specflowProject1\6-exercise-files\after\Hooks\GameCore\bin\Debug\GameCore.dll
+C:\Users\andrew.tilston\Testing Info\Projects\Specflow\specflowProject1\6-exercise-files\after\Hooks\GameCore\bin\Debug\GameCore.pdb
+C:\Users\andrew.tilston\Testing Info\Projects\Specflow\specflowProject1\6-exercise-files\after\Hooks\GameCore\obj\Debug\GameCore.csprojAssemblyReference.cache
+C:\Users\andrew.tilston\Testing Info\Projects\Specflow\specflowProject1\6-exercise-files\after\Hooks\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\andrew.tilston\Testing Info\Projects\Specflow\specflowProject1\6-exercise-files\after\Hooks\GameCore\obj\Debug\GameCore.dll
+C:\Users\andrew.tilston\Testing Info\Projects\Specflow\specflowProject1\6-exercise-files\after\Hooks\GameCore\obj\Debug\GameCore.pdb
